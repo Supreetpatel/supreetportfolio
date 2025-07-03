@@ -1,12 +1,48 @@
-# React + Vite
+# Supreet Patel — Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio!  
+Live Site: [supreetportfolio.vercel.app](https://supreetportfolio.vercel.app/)
 
-Currently, two official plugins are available:
+This website showcases who I am, what I do, and the projects I’ve built.  
+Designed and developed with performance, responsiveness, and aesthetics in mind.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend Framework:** React (with Vite)
+- **Styling:** Tailwind CSS + MagicUI + ActernityUI
+- **Animations:** Framer Motion
+- **Email Integration:** EmailJS
+- **Deployment:** Vercel
+
+---
+
+## 📁 Features
+
+- ⚡ Clean and responsive UI with smooth animations
+- 🧠 About Me section showcasing background and skills
+- 💼 Projects section highlighting selected works with live previews
+- 📬 Functional contact form
+- 🌙 Dark mode support (if applicable)
+
+---
+
+## 📷 Preview
+
+![Screenshot](./preview.png) <!-- Add a screenshot of your portfolio here -->
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-portfolio-repo.git
+cd your-portfolio-repo
+
+# Install dependencies
+npm install
+
+# Run the app locally
+npm run dev
