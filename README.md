@@ -30,7 +30,7 @@ Designed and developed with performance, responsiveness, and aesthetics in mind.
 
 ## 📷 Preview
 
-![Screenshot](./preview.png) <!-- Add a screenshot of your portfolio here -->
+![Screenshot](./![Uploading Screenshot 2025-07-03 220450.png…] <!-- Add a screenshot of your portfolio here -->
 
 ---
 
